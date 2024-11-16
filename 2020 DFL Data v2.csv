@@ -1,0 +1,1001 @@
+"voter_party","voter_age","voter_college","voter_income","voter_female","voter_race","voter_hispanic","voter_urban","vote","walz_approval","donations"
+"DFL",45,0,41241,0,"White",1,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",45,0,41960,1,"White",0,"Urban","Trump","Strongly approve",49
+"Republican",26,0,30711,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",70,0,16343,1,"White",0,"Suburban","Trump","Strongly disapprove",48
+"Independent",55,0,21648,1,"White",0,"Suburban","Biden","Approve",0
+"DFL",72,0,27220,0,"White",0,"Rural","Biden","Disapprove",0
+"Independent",42,0,42039,1,"White",0,"Suburban","Biden","Approve",0
+"Independent",60,0,39349,0,"White",0,"Urban","Biden","Approve",0
+"Independent",23,1,43911,1,"White",0,"Rural","Non-voter","Neither approve nor disapprove",51
+"DFL",48,1,70273,1,"White",0,"Rural","Non-voter","Approve",32
+"Republican",70,1,30306,0,"White",0,"Suburban","Trump","Disapprove",55
+"Independent",66,0,32976,0,"Asian",0,"Suburban","Trump","Disapprove",0
+"Republican",65,1,52555,0,"White",0,"Suburban","Non-voter","Disapprove",47
+"Independent",51,1,59549,1,"White",0,"Suburban","Non-voter","Approve",0
+"Independent",68,0,17818,1,"White",0,"Suburban","Trump","Disapprove",0
+"Republican",70,0,26242,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",81,0,22198,0,"White",0,"Urban","3rd Party","Disapprove",11
+"Republican",59,1,56233,1,"White",0,"Urban","Trump","Approve",0
+"Republican",54,0,38056,1,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",47,1,50418,0,"White",0,"Urban","Biden","Strongly approve",96
+"Republican",48,0,37506,0,"White",0,"Rural","Biden","Strongly disapprove",0
+"Independent",26,0,33227,1,"White",0,"Urban","Non-voter","Approve",19
+"DFL",26,0,44452,1,"White",0,"Rural","Biden","Approve",54
+"Republican",51,1,44540,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",4
+"DFL",52,1,87202,1,"Black",0,"Suburban","Non-voter","Strongly approve",56
+"Republican",56,0,27623,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",26,1,50892,1,"White",0,"Urban","Biden","Approve",2
+"Republican",54,1,49797,1,"White",0,"Urban","3rd Party","Approve",0
+"DFL",31,0,37172,1,"White",0,"Suburban","Trump","Strongly approve",0
+"DFL",34,0,35841,1,"White",1,"Rural","Biden","Approve",60
+"Independent",44,0,23588,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",56,0,24164,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",48,0,39073,1,"White",0,"Urban","Trump","Approve",0
+"Republican",26,0,13218,0,"White",0,"Suburban","Non-voter","Disapprove",0
+"DFL",79,1,17856,1,"White",1,"Urban","Biden","Strongly approve",0
+"DFL",72,1,53589,0,"Black",0,"Suburban","Non-voter","Strongly approve",0
+"DFL",75,1,24716,0,"White",0,"Suburban","Non-voter","Strongly approve",0
+"Independent",25,0,26024,1,"White",0,"Rural","3rd Party","Disapprove",3
+"Independent",43,0,24014,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",70,0,25449,1,"White",0,"Urban","Biden","Disapprove",0
+"DFL",24,0,48822,1,"White",1,"Urban","Non-voter","Strongly approve",31
+"Independent",34,1,49379,0,"Two or more races",0,"Urban","Biden","Approve",15
+"DFL",58,0,35469,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Independent",24,0,38603,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",84,0,10941,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",45,0,37677,0,"White",0,"Rural","Trump","Disapprove",14
+"Independent",54,0,26968,0,"White",0,"Rural","Biden","Disapprove",0
+"Republican",71,1,36907,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",48,1,47055,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"DFL",56,0,19675,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",39,0,32135,0,"Asian",0,"Rural","Trump","Strongly disapprove",14
+"Independent",45,1,26637,1,"White",0,"Suburban","Biden","Approve",0
+"DFL",70,1,50563,1,"White",1,"Urban","Biden","Strongly approve",39
+"DFL",81,0,14228,0,"White",0,"Rural","Biden","Disapprove",0
+"DFL",51,1,70858,0,"White",0,"Rural","Biden","Approve",58
+"Republican",32,0,35651,0,"White",0,"Urban","Trump","Neither approve nor disapprove",7
+"Independent",45,0,43411,1,"White",0,"Rural","Trump","Disapprove",0
+"Independent",72,0,23047,1,"Pacific Islander",0,"Rural","Non-voter","Disapprove",95
+"Independent",19,0,18903,0,"White",0,"Urban","Non-voter","Approve",0
+"Republican",59,0,17657,0,"Black",0,"Rural","Trump","Disapprove",47
+"Independent",66,0,11158,0,"White",1,"Suburban","Biden","Disapprove",27
+"Republican",49,0,34009,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",70,0,10727,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",8
+"DFL",33,1,60935,0,"White",0,"Rural","Biden","Approve",29
+"Republican",69,0,611,0,"White",1,"Suburban","Trump","Strongly disapprove",0
+"Independent",48,0,38778,1,"White",0,"Suburban","3rd Party","Approve",0
+"Republican",61,0,37004,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",64,0,44046,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",30
+"DFL",76,0,23023,1,"White",1,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",28,1,89420,1,"White",0,"Urban","Biden","Strongly approve",597
+"Independent",56,0,27723,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Republican",65,1,66478,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"DFL",36,0,20931,0,"Pacific Islander",0,"Rural","Trump","Disapprove",0
+"Republican",75,0,24080,0,"Asian",0,"Urban","Non-voter","Disapprove",13
+"DFL",55,0,48825,0,"White",0,"Suburban","Non-voter","Approve",0
+"DFL",24,0,6329,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"Republican",36,0,8048,1,"White",0,"Suburban","Trump","Disapprove",32
+"Republican",48,1,71565,1,"White",0,"Urban","Biden","Approve",9
+"Republican",44,1,59378,1,"White",1,"Rural","Biden","Strongly disapprove",0
+"DFL",49,0,25321,0,"Asian",0,"Urban","Biden","Strongly approve",0
+"Independent",47,0,0,0,"Asian",0,"Rural","3rd Party","Disapprove",0
+"DFL",42,1,53031,1,"White",0,"Urban","Biden","Strongly approve",89
+"DFL",59,0,36833,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Republican",62,0,22713,0,"Asian",0,"Rural","Trump","Strongly disapprove",0
+"Republican",80,0,26082,1,"Pacific Islander",0,"Suburban","Trump","Disapprove",69
+"Independent",37,1,53136,1,"White",0,"Suburban","Biden","Approve",0
+"DFL",76,0,4567,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",14
+"Independent",79,1,24298,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",36,0,10100,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"Republican",62,1,50583,1,"White",0,"Suburban","Trump","Approve",47
+"DFL",72,0,23655,1,"White",0,"Suburban","Biden","Approve",0
+"Republican",66,0,24316,0,"White",0,"Urban","Biden","Disapprove",5
+"DFL",60,0,43761,0,"Pacific Islander",0,"Urban","Biden","Strongly approve",0
+"Republican",71,0,15763,0,"White",0,"Suburban","Trump","Disapprove",0
+"Republican",68,0,19428,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",46,1,41780,1,"Asian",0,"Urban","Non-voter","Strongly approve",76
+"Independent",75,0,17899,0,"Black",0,"Urban","Biden","Approve",42
+"Republican",80,0,16187,1,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",59,1,69142,1,"White",0,"Rural","Biden","Approve",64
+"Republican",83,1,20612,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",36,0,42387,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",58,0,16271,0,"White",0,"Suburban","Non-voter","Strongly approve",0
+"Republican",68,0,15010,0,"Black",0,"Rural","Non-voter","Strongly disapprove",38
+"DFL",63,0,31847,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",68,0,26239,1,"White",0,"Rural","Trump","Approve",0
+"Republican",80,0,24526,0,"White",0,"Suburban","Trump","Strongly disapprove",18
+"Republican",60,0,45422,0,"White",0,"Urban","Trump","Approve",0
+"DFL",24,0,29069,1,"White",0,"Suburban","Non-voter","Strongly approve",0
+"DFL",33,0,36304,1,"White",0,"Rural","Trump","Approve",0
+"Independent",44,1,62940,1,"White",0,"Suburban","Biden","Approve",86
+"Independent",30,0,22836,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",54,0,33843,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Independent",18,0,9262,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",56,0,20207,0,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",40,1,62540,1,"White",0,"Rural","Biden","Disapprove",38
+"DFL",51,0,24538,0,"White",0,"Suburban","Trump","Approve",0
+"DFL",23,0,37412,1,"White",1,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",20,0,39216,1,"White",0,"Suburban","Non-voter","Strongly approve",0
+"Republican",68,0,17450,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"DFL",58,0,17658,1,"White",1,"Suburban","Biden","Strongly approve",0
+"Republican",38,1,64801,1,"White",0,"Rural","Biden","Strongly disapprove",16
+"DFL",83,0,24602,1,"Asian",0,"Urban","Trump","Approve",76
+"Republican",63,0,26076,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"DFL",57,0,35945,1,"White",0,"Suburban","Trump","Approve",0
+"Republican",71,0,0,0,"White",0,"Rural","Non-voter","Strongly disapprove",83
+"Independent",60,1,49741,1,"Asian",0,"Urban","Trump","Approve",20
+"Republican",71,0,19456,1,"White",0,"Urban","3rd Party","Neither approve nor disapprove",68
+"Republican",55,1,26537,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"DFL",61,1,71320,1,"White",0,"Urban","Biden","Strongly approve",324
+"DFL",71,0,28531,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"Independent",56,0,22520,0,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",65,0,38724,0,"White",0,"Rural","Trump","Disapprove",13
+"Republican",70,1,35404,1,"White",0,"Suburban","Trump","Approve",0
+"DFL",35,1,57087,1,"Asian",1,"Rural","Biden","Approve",55
+"DFL",55,1,64440,0,"Black",0,"Suburban","Biden","Approve",27
+"Republican",68,1,31592,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Independent",80,0,23212,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",56,1,55435,0,"White",0,"Suburban","Biden","Strongly approve",154
+"Independent",20,0,36402,0,"White",0,"Rural","Trump","Disapprove",0
+"DFL",80,0,40966,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"Independent",64,0,42470,1,"White",0,"Urban","Trump","Neither approve nor disapprove",8
+"Republican",67,0,21220,0,"Pacific Islander",0,"Rural","Trump","Strongly disapprove",0
+"Independent",19,0,22010,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"DFL",84,1,42674,1,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",47,0,33122,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",42,1,37595,0,"White",0,"Rural","Biden","Approve",0
+"DFL",69,1,35215,1,"White",0,"Urban","Biden","Strongly approve",8
+"Republican",46,0,51557,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",40,1,49834,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",58,1,44616,1,"Black",0,"Suburban","Biden","Neither approve nor disapprove",40
+"Republican",74,0,16796,1,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",38,0,29089,0,"White",0,"Rural","Trump","Approve",0
+"DFL",68,0,29826,0,"White",1,"Rural","Biden","Disapprove",24
+"Independent",42,1,50969,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",42
+"DFL",65,0,25673,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",30,1,59044,1,"White",0,"Suburban","Biden","Approve",58
+"Independent",40,0,36194,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",59,1,56804,1,"White",0,"Urban","Biden","Strongly approve",188
+"Republican",31,0,33793,0,"White",0,"Suburban","Trump","Disapprove",38
+"DFL",40,0,26226,0,"Pacific Islander",1,"Suburban","Biden","Strongly approve",0
+"Independent",54,0,7833,1,"White",1,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",25,0,23018,0,"White",0,"Rural","Non-voter","Disapprove",0
+"Republican",42,0,13766,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",29,0,24835,0,"White",0,"Rural","Trump","Disapprove",0
+"Independent",37,0,32823,0,"White",0,"Rural","Non-voter","Disapprove",0
+"DFL",56,0,28084,0,"Black",0,"Urban","Biden","Strongly approve",0
+"Republican",46,0,42486,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",20,0,28507,0,"White",0,"Suburban","Trump","Approve",30
+"DFL",33,0,11763,1,"White",1,"Rural","Trump","Approve",0
+"DFL",26,0,35320,0,"White",0,"Suburban","Non-voter","Strongly approve",0
+"Republican",35,1,33301,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",76,0,29126,1,"White",0,"Rural","Biden","Disapprove",0
+"Independent",65,1,25336,1,"White",0,"Rural","Non-voter","Disapprove",0
+"Republican",50,0,50200,0,"White",1,"Urban","Biden","Neither approve nor disapprove",57
+"DFL",76,0,17937,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",65,0,41976,1,"White",0,"Rural","Biden","Disapprove",0
+"Independent",39,0,46339,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",78,0,18026,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",22
+"Independent",64,0,31636,1,"White",0,"Rural","Biden","Disapprove",21
+"Republican",51,1,29090,1,"Black",0,"Urban","Non-voter","Approve",0
+"DFL",47,0,31321,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",66,0,21127,1,"White",1,"Suburban","Biden","Approve",0
+"DFL",56,1,67957,0,"White",0,"Suburban","Biden","Strongly approve",336
+"Republican",77,1,24807,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"DFL",73,0,11853,0,"White",0,"Rural","Biden","Disapprove",0
+"Independent",65,1,42846,1,"White",0,"Urban","Trump","Approve",0
+"DFL",33,1,34287,0,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",66,0,14810,1,"Black",0,"Urban","Biden","Neither approve nor disapprove",0
+"DFL",45,0,13383,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",38,1,48203,0,"White",0,"Urban","Biden","Strongly approve",68
+"DFL",52,1,38715,0,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",26,0,7414,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",46,0,45379,0,"White",0,"Urban","Trump","Strongly approve",59
+"Independent",43,0,38251,0,"White",0,"Urban","Trump","Approve",0
+"Independent",73,1,53571,1,"White",0,"Urban","Trump","Strongly approve",0
+"DFL",73,0,19845,1,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",56,0,55945,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Republican",48,1,50710,1,"White",0,"Suburban","Biden","Approve",0
+"Republican",75,1,48252,1,"White",0,"Suburban","3rd Party","Approve",0
+"Independent",25,0,11418,0,"Black",0,"Suburban","Non-voter","Neither approve nor disapprove",69
+"DFL",82,0,27141,0,"White",0,"Rural","Trump","Disapprove",0
+"Republican",37,0,30682,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",53,0,24837,0,"White",0,"Suburban","Biden","Approve",0
+"Independent",41,1,43182,0,"White",0,"Rural","Biden","Disapprove",4
+"Republican",43,0,37156,1,"Black",0,"Suburban","Non-voter","Disapprove",0
+"Independent",80,1,35336,1,"Asian",1,"Rural","Biden","Disapprove",0
+"Republican",37,0,32200,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",56,0,39350,1,"Pacific Islander",0,"Rural","Trump","Neither approve nor disapprove",0
+"DFL",62,0,25154,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",27,0,15081,1,"White",0,"Urban","Trump","Strongly approve",0
+"DFL",80,0,9037,0,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",27,0,16279,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",57,1,66837,1,"White",0,"Rural","Biden","Approve",3
+"Republican",73,1,30243,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",25,0,16678,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",74,0,13017,0,"Black",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",36,1,54438,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",30,0,18013,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",84,1,45277,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",76,0,18325,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",70,0,29209,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Independent",23,0,2642,0,"White",0,"Urban","Non-voter","Approve",41
+"Independent",70,0,5620,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",15
+"DFL",65,0,38248,1,"White",0,"Suburban","Biden","Approve",29
+"DFL",48,1,73976,1,"White",0,"Rural","Biden","Approve",156
+"DFL",40,0,33921,0,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",75,0,24953,1,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Republican",72,1,14616,0,"White",0,"Urban","Trump","Neither approve nor disapprove",23
+"Republican",68,0,0,0,"White",0,"Urban","Trump","Disapprove",44
+"DFL",39,0,26317,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",35,0,54078,0,"White",0,"Urban","Trump","Strongly approve",0
+"Independent",77,0,21159,0,"White",0,"Suburban","Trump","Disapprove",3
+"DFL",39,0,30847,1,"Black",0,"Urban","Non-voter","Strongly approve",0
+"DFL",71,0,19596,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",36,1,46056,1,"White",1,"Suburban","Non-voter","Approve",0
+"Independent",84,1,27984,0,"White",0,"Urban","Biden","Approve",0
+"Republican",59,0,38942,1,"White",0,"Urban","Biden","Approve",0
+"Republican",22,0,25947,0,"Black",0,"Rural","Trump","Strongly disapprove",0
+"DFL",44,0,35995,0,"White",0,"Suburban","Biden","Approve",0
+"Independent",84,1,41773,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",66,0,13370,0,"White",0,"Rural","Trump","Disapprove",0
+"Republican",77,0,17485,0,"Black",0,"Rural","Trump","Strongly disapprove",0
+"DFL",74,0,13065,1,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",29,0,57035,0,"White",1,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",65,0,39036,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",55,0,34871,0,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",69,0,17128,0,"Black",0,"Urban","Trump","Strongly approve",0
+"Independent",45,0,53249,0,"White",0,"Rural","3rd Party","Disapprove",0
+"Republican",68,0,24548,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",52,0,28770,1,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",74,0,16919,1,"White",0,"Suburban","Trump","Approve",0
+"Republican",27,1,53659,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",18
+"Republican",30,0,28022,0,"Asian",0,"Urban","Biden","Neither approve nor disapprove",0
+"Independent",71,0,23607,1,"White",0,"Suburban","Biden","Disapprove",0
+"Republican",57,0,31651,1,"White",0,"Suburban","Non-voter","Disapprove",0
+"Independent",80,0,8784,0,"Pacific Islander",0,"Suburban","Biden","Strongly disapprove",24
+"Republican",47,0,34251,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",1
+"DFL",68,1,36399,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"Independent",29,1,27517,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",59,0,34316,0,"White",0,"Suburban","Biden","Strongly approve",0
+"Independent",18,0,48418,1,"White",0,"Rural","Trump","Disapprove",0
+"Republican",42,1,31872,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"DFL",58,1,51771,1,"White",0,"Suburban","Biden","Strongly approve",102
+"Independent",33,1,64413,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",30
+"Republican",62,1,38980,0,"White",0,"Rural","Biden","Strongly disapprove",36
+"DFL",66,1,33059,1,"White",1,"Suburban","Biden","Strongly approve",0
+"Independent",73,0,13489,1,"White",0,"Rural","Trump","Strongly disapprove",32
+"Independent",43,1,75363,1,"White",0,"Suburban","Trump","Strongly approve",0
+"DFL",48,0,50061,1,"White",0,"Suburban","Biden","Strongly approve",193
+"DFL",61,1,49159,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",44,0,39082,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",65,0,18601,0,"White",0,"Urban","Trump","Strongly approve",23
+"Republican",44,0,16877,0,"White",0,"Rural","Non-voter","Strongly disapprove",17
+"Republican",42,0,17834,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",81,0,28044,1,"Black",0,"Rural","Trump","Strongly disapprove",17
+"DFL",74,0,18372,1,"White",0,"Rural","Trump","Disapprove",93
+"Republican",34,0,11993,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",71,1,36281,0,"White",1,"Rural","Trump","Strongly disapprove",0
+"Republican",51,0,15923,0,"White",0,"Rural","Biden","Strongly disapprove",19
+"Independent",64,0,27442,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",36,0,33241,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",72,0,21415,1,"Asian",0,"Urban","Biden","Strongly approve",0
+"Independent",37,1,31377,0,"White",0,"Rural","Biden","Disapprove",35
+"Independent",34,0,53154,0,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",68,1,19258,1,"Black",0,"Urban","Biden","Approve",0
+"Independent",26,0,16390,1,"White",0,"Rural","Trump","Disapprove",0
+"DFL",81,1,44397,1,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",48,0,30102,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",49,1,57150,1,"White",0,"Urban","Biden","Strongly approve",225
+"DFL",46,0,23376,0,"Asian",0,"Suburban","Biden","Approve",0
+"DFL",24,1,57409,0,"White",0,"Urban","Trump","Strongly approve",0
+"Independent",65,0,16203,1,"Asian",0,"Urban","Trump","Approve",33
+"DFL",46,0,16393,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",54,0,0,0,"Black",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Republican",66,0,20849,0,"White",0,"Urban","Non-voter","Disapprove",0
+"Independent",74,1,42736,0,"White",0,"Suburban","Non-voter","Approve",0
+"DFL",71,0,24826,1,"White",1,"Suburban","Biden","Approve",0
+"DFL",68,0,27032,0,"White",0,"Suburban","Biden","Approve",0
+"Independent",62,1,36683,1,"Black",0,"Rural","Biden","Disapprove",19
+"DFL",44,1,53992,0,"Black",0,"Suburban","Biden","Strongly approve",57
+"Republican",61,0,22404,1,"White",0,"Suburban","Biden","Disapprove",0
+"DFL",24,0,30270,1,"White",0,"Rural","Non-voter","Approve",0
+"DFL",54,1,61512,1,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"Independent",33,0,9869,1,"White",0,"Rural","Trump","Disapprove",0
+"DFL",49,1,48932,1,"White",0,"Suburban","Biden","Strongly approve",59
+"Republican",32,0,45986,0,"White",1,"Urban","Trump","Approve",0
+"Independent",52,1,21739,1,"White",0,"Rural","Biden","Disapprove",0
+"Republican",38,0,58490,0,"White",0,"Urban","Trump","Neither approve nor disapprove",24
+"Independent",50,1,40835,1,"Pacific Islander",0,"Rural","Biden","Disapprove",0
+"DFL",78,0,19237,0,"White",0,"Suburban","Biden","Approve",0
+"Independent",25,0,18109,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",5
+"Republican",77,1,41958,0,"Black",0,"Urban","Trump","Approve",0
+"Independent",21,0,31959,1,"White",0,"Suburban","Trump","Approve",0
+"Republican",44,1,59890,1,"White",0,"Rural","Biden","Disapprove",0
+"Independent",47,1,62530,1,"White",0,"Urban","Biden","Strongly approve",95
+"Republican",72,0,18217,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",32,0,50630,1,"White",0,"Urban","Trump","Approve",20
+"Republican",72,1,43152,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"DFL",40,1,42039,0,"White",0,"Urban","Biden","Strongly approve",42
+"Independent",73,1,33741,0,"White",0,"Urban","Non-voter","Approve",22
+"DFL",62,0,36465,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",76,0,12596,0,"White",0,"Rural","Non-voter","Disapprove",0
+"Independent",27,1,94527,0,"White",0,"Rural","Biden","Disapprove",0
+"DFL",55,0,16197,1,"White",0,"Suburban","Trump","Strongly approve",0
+"DFL",51,0,34217,0,"Black",0,"Rural","Biden","Approve",0
+"DFL",52,1,65108,0,"White",0,"Urban","Biden","Strongly approve",233
+"DFL",32,0,31588,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",25,1,73122,1,"Asian",0,"Urban","Non-voter","Strongly approve",0
+"Independent",49,0,34954,1,"White",0,"Rural","Non-voter","Disapprove",0
+"Republican",71,0,21943,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",43,0,36470,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",85,0,18517,0,"White",0,"Suburban","Trump","Disapprove",2
+"DFL",50,0,23153,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",23,1,38691,1,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Independent",56,0,56514,1,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"DFL",49,0,35894,0,"White",0,"Rural","Biden","Neither approve nor disapprove",4
+"Independent",51,0,36679,1,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",22,1,48856,1,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"DFL",38,0,20494,0,"White",0,"Suburban","Trump","Strongly approve",14
+"Republican",48,0,32079,1,"White",0,"Urban","Non-voter","Approve",0
+"Republican",65,0,45959,0,"White",0,"Suburban","Trump","Strongly disapprove",0
+"DFL",70,0,28197,1,"White",0,"Suburban","Trump","Approve",0
+"Independent",64,0,29739,1,"Black",0,"Rural","Trump","Disapprove",0
+"Republican",72,1,24836,1,"White",0,"Urban","Trump","Approve",0
+"Independent",59,1,47750,1,"White",0,"Urban","Biden","Strongly approve",13
+"Independent",58,0,19514,0,"Pacific Islander",0,"Suburban","Biden","Neither approve nor disapprove",33
+"DFL",47,1,32858,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",30,1,57313,1,"White",0,"Suburban","Biden","Disapprove",92
+"Independent",63,1,86821,1,"White",0,"Rural","Non-voter","Disapprove",0
+"Independent",35,0,12756,0,"White",0,"Rural","Non-voter","Disapprove",58
+"Independent",58,1,46933,0,"White",0,"Suburban","Non-voter","Approve",10
+"DFL",72,1,32566,1,"Black",0,"Rural","Biden","Neither approve nor disapprove",96
+"Republican",53,1,86582,1,"White",0,"Urban","Non-voter","Approve",40
+"Republican",32,1,81134,1,"White",1,"Rural","Trump","Strongly disapprove",0
+"Independent",81,0,25817,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",73,1,29558,1,"Black",0,"Urban","Biden","Strongly approve",0
+"DFL",41,1,41964,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",53,1,75990,0,"White",0,"Urban","Biden","Strongly approve",487
+"DFL",43,0,33506,1,"Black",0,"Urban","Biden","Strongly approve",0
+"DFL",77,0,15272,1,"Black",0,"Suburban","Biden","Approve",0
+"Independent",72,0,16685,1,"White",1,"Rural","Non-voter","Disapprove",0
+"Republican",75,0,16185,0,"White",1,"Suburban","Trump","Strongly disapprove",30
+"DFL",24,0,14752,0,"White",1,"Suburban","Non-voter","Approve",20
+"Republican",51,0,45807,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",62,0,39378,0,"White",0,"Suburban","Trump","Strongly approve",52
+"Republican",40,0,41605,0,"White",0,"Rural","Trump","Disapprove",0
+"DFL",34,1,58702,1,"White",0,"Suburban","Biden","Approve",0
+"DFL",24,0,27120,0,"Black",0,"Rural","Trump","Neither approve nor disapprove",17
+"Republican",30,0,32746,0,"Pacific Islander",0,"Suburban","Trump","Disapprove",0
+"Republican",63,0,31639,0,"White",0,"Urban","Non-voter","Disapprove",2
+"Independent",28,0,8309,1,"White",0,"Rural","Non-voter","Strongly disapprove",6
+"DFL",37,1,47744,1,"White",0,"Suburban","Biden","Strongly approve",57
+"Republican",65,0,38615,0,"White",0,"Suburban","3rd Party","Strongly disapprove",7
+"Independent",61,0,32902,0,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",69,0,21434,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",56,0,19476,1,"White",1,"Urban","Biden","Strongly approve",0
+"DFL",78,0,15543,0,"White",0,"Suburban","Biden","Approve",0
+"DFL",74,0,27394,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",43,0,33774,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",58,0,27677,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Independent",41,0,8935,0,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",68,0,17534,1,"White",0,"Suburban","Trump","Strongly approve",51
+"Independent",60,1,49952,1,"White",0,"Rural","Biden","Disapprove",0
+"Republican",52,1,27847,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",85
+"Independent",73,1,13974,1,"Black",0,"Rural","Trump","Neither approve nor disapprove",0
+"Independent",51,1,60083,1,"White",0,"Suburban","Biden","Approve",0
+"Republican",64,0,27941,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",76,0,18257,1,"White",0,"Urban","Biden","Neither approve nor disapprove",5
+"Republican",35,0,13886,0,"White",0,"Urban","Biden","Disapprove",0
+"Independent",83,1,32832,0,"White",1,"Rural","Biden","Strongly disapprove",0
+"Independent",49,0,20744,1,"White",0,"Urban","Trump","Strongly approve",0
+"Independent",67,1,32264,1,"Black",1,"Urban","Biden","Approve",0
+"Republican",61,0,3164,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",24,0,55635,1,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Republican",74,0,18080,0,"Black",0,"Rural","Trump","Strongly disapprove",36
+"DFL",41,0,54540,0,"White",0,"Rural","Biden","Approve",110
+"Independent",50,0,35134,1,"White",0,"Suburban","Biden","Approve",0
+"Independent",43,1,55525,1,"White",0,"Urban","Biden","Approve",0
+"Republican",38,0,57539,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",46
+"Republican",69,0,23688,1,"Black",0,"Suburban","Non-voter","Disapprove",0
+"DFL",58,0,32687,0,"American Indian or Alaska Native",0,"Urban","Trump","Strongly approve",0
+"Independent",51,0,20491,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",56,0,24692,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",43,1,63070,0,"Black",0,"Rural","Trump","Strongly disapprove",0
+"Independent",78,1,26018,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",25,1,40636,1,"White",0,"Urban","Biden","Approve",7
+"DFL",55,0,43935,1,"White",0,"Rural","Biden","Neither approve nor disapprove",29
+"Republican",71,0,38037,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",52,0,15819,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Republican",72,0,3286,0,"White",0,"Suburban","Trump","Disapprove",0
+"Republican",44,1,72296,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",9
+"Republican",29,0,24121,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Republican",48,1,8131,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Independent",48,1,31251,0,"White",0,"Suburban","3rd Party","Approve",18
+"Republican",83,0,12303,1,"Black",0,"Rural","Non-voter","Strongly disapprove",0
+"Independent",68,0,28173,1,"Pacific Islander",0,"Rural","Biden","Disapprove",0
+"Republican",43,0,23977,0,"White",0,"Rural","Trump","Disapprove",48
+"Republican",36,1,38310,1,"White",0,"Suburban","Trump","Approve",0
+"Independent",30,0,35382,1,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",30,1,56649,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",37,1,43079,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",50,1,40987,1,"White",0,"Rural","Biden","Disapprove",43
+"DFL",62,0,33150,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",9
+"DFL",50,0,26336,1,"Black",0,"Suburban","Biden","Strongly approve",0
+"Independent",74,1,26209,1,"Asian",0,"Urban","Biden","Approve",0
+"Republican",21,0,16829,1,"White",0,"Rural","Trump","Disapprove",23
+"Republican",53,1,44454,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",59,1,29536,0,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",42,0,11858,0,"Black",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",68,0,28141,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",53,0,29051,1,"White",0,"Suburban","3rd Party","Approve",0
+"Independent",71,0,22975,1,"White",0,"Rural","Biden","Strongly disapprove",50
+"Independent",64,1,54614,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",41,0,39064,0,"White",0,"Urban","Non-voter","Approve",0
+"DFL",52,0,32661,1,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",25,0,28754,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",4
+"DFL",43,1,22208,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",66,0,21263,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Republican",83,0,14522,1,"Black",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",59,0,23731,0,"White",0,"Rural","Trump","Disapprove",0
+"Independent",52,0,50761,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Independent",53,0,44643,1,"White",0,"Rural","Trump","Disapprove",0
+"Republican",75,0,20133,1,"Pacific Islander",1,"Urban","Non-voter","Disapprove",0
+"DFL",68,1,21510,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",82,0,16690,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",67,1,33129,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",21,0,22024,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"Independent",79,0,27544,0,"White",0,"Suburban","Non-voter","Disapprove",0
+"Independent",69,0,33692,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",74,1,19513,0,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",52,0,49159,1,"White",1,"Rural","Non-voter","Neither approve nor disapprove",6
+"DFL",70,1,48916,0,"Pacific Islander",0,"Suburban","Non-voter","Strongly approve",0
+"Republican",43,1,43573,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",74,1,23188,0,"White",0,"Urban","Trump","Approve",0
+"Republican",42,0,27965,1,"White",0,"Rural","Trump","Strongly disapprove",14
+"Independent",63,0,43533,0,"White",0,"Suburban","Trump","Disapprove",3
+"DFL",83,0,22102,1,"Black",0,"Suburban","Biden","Approve",0
+"DFL",45,1,58273,0,"Black",1,"Urban","Biden","Strongly approve",291
+"DFL",45,1,30327,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",36,0,0,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",46,1,41252,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",77,1,27395,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",72,1,31365,0,"Asian",0,"Suburban","Biden","Approve",0
+"DFL",75,0,19206,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",77,0,26517,0,"White",0,"Urban","Non-voter","Disapprove",51
+"Republican",34,0,16120,0,"White",0,"Urban","Biden","Neither approve nor disapprove",87
+"DFL",73,0,23102,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",81,1,18454,0,"Black",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",69,1,31913,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"DFL",76,1,25368,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",47,0,18597,0,"White",0,"Rural","Trump","Approve",0
+"Independent",63,0,31020,0,"White",0,"Rural","Non-voter","Strongly disapprove",16
+"DFL",27,0,44990,0,"White",1,"Suburban","Biden","Strongly approve",0
+"Republican",60,0,39953,1,"Black",0,"Urban","Non-voter","Neither approve nor disapprove",5
+"Republican",26,1,43235,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",26
+"Republican",38,1,58056,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",10
+"Republican",83,0,18436,1,"White",0,"Suburban","Biden","Disapprove",0
+"DFL",38,0,36450,1,"White",0,"Urban","Non-voter","Strongly approve",36
+"DFL",30,1,48062,0,"Pacific Islander",0,"Urban","Biden","Strongly approve",0
+"Republican",37,0,46961,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",61,0,33594,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"Republican",30,0,5850,1,"Pacific Islander",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",65,0,31263,0,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",53,0,33051,1,"Black",0,"Rural","Trump","Disapprove",51
+"Republican",40,1,46344,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",76,0,24726,0,"Asian",1,"Rural","Trump","Strongly disapprove",0
+"DFL",59,1,34095,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",83,0,15553,0,"White",0,"Rural","Trump","Strongly disapprove",57
+"DFL",82,1,46949,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",39,1,66694,1,"Black",0,"Suburban","Trump","Strongly approve",56
+"DFL",61,1,47147,0,"White",0,"Urban","Biden","Strongly approve",106
+"Republican",40,0,43082,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"Independent",40,0,29238,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",68
+"DFL",50,0,22641,1,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"Republican",80,1,39762,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",67,0,6638,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"DFL",70,0,20321,0,"Pacific Islander",0,"Urban","Biden","Strongly approve",0
+"Independent",82,1,28013,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",59,0,30160,1,"White",0,"Urban","Biden","Approve",0
+"Independent",59,0,39411,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",24,1,61886,1,"White",0,"Suburban","Biden","Strongly approve",182
+"Independent",29,0,34226,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",56,0,31950,1,"White",0,"Suburban","Trump","Approve",0
+"Independent",39,0,21358,1,"Black",0,"Urban","Trump","Approve",0
+"DFL",47,1,47195,1,"White",0,"Urban","Biden","Strongly approve",134
+"Independent",30,0,30369,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",77,0,33661,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",42,0,23344,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",24,0,44842,0,"White",0,"Suburban","Non-voter","Approve",16
+"Republican",63,1,70845,1,"White",0,"Rural","Biden","Disapprove",0
+"DFL",78,1,26260,0,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",36,0,17255,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",80,0,3670,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",76,1,28754,0,"Black",0,"Suburban","Biden","Strongly approve",0
+"Independent",75,0,23369,1,"White",0,"Urban","Trump","Approve",12
+"Republican",62,0,30669,0,"White",0,"Urban","Trump","Disapprove",0
+"Republican",82,1,32289,0,"White",0,"Urban","Trump","Approve",0
+"Republican",20,0,55016,0,"White",0,"Urban","Trump","Disapprove",0
+"Republican",76,0,22695,0,"White",0,"Urban","Biden","Disapprove",42
+"Republican",78,0,12343,1,"White",1,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",80,0,14950,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Independent",40,1,49188,1,"White",0,"Urban","Biden","Approve",63
+"DFL",56,1,25148,0,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",36,1,59124,0,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",56,0,50985,1,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",53,0,22596,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",6
+"DFL",36,0,31608,1,"White",1,"Rural","Non-voter","Approve",1
+"DFL",34,0,1844,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",34,0,50314,1,"Black",0,"Urban","Biden","Strongly approve",135
+"Independent",23,0,42580,0,"White",0,"Rural","Trump","Disapprove",8
+"Republican",19,0,12626,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",27,1,58659,1,"White",0,"Urban","Biden","Strongly approve",73
+"DFL",73,1,28927,0,"White",1,"Suburban","Non-voter","Strongly approve",0
+"DFL",66,0,16387,0,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",67,1,39467,0,"White",0,"Suburban","Trump","Disapprove",0
+"Republican",36,0,31695,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"DFL",53,0,40828,0,"White",0,"Suburban","Non-voter","Approve",69
+"Republican",45,0,0,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",67
+"DFL",81,0,30157,1,"Asian",0,"Suburban","Biden","Approve",0
+"Republican",51,0,23590,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",53,0,11031,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",49,0,66613,1,"White",0,"Suburban","Biden","Disapprove",0
+"Independent",60,0,54513,1,"Asian",1,"Rural","Trump","Strongly disapprove",0
+"Republican",64,0,33325,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",24,1,54244,1,"White",0,"Suburban","Non-voter","Strongly approve",17
+"DFL",23,0,10065,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",67
+"Independent",71,1,36548,1,"White",1,"Rural","Biden","Disapprove",70
+"DFL",63,0,36815,1,"White",0,"Suburban","Biden","Approve",0
+"DFL",56,1,54078,1,"White",0,"Urban","Biden","Strongly approve",117
+"Independent",49,0,37571,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",63,0,19520,0,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",24,0,58547,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",32,0,49786,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",50,0,41261,1,"White",0,"Urban","Trump","Approve",0
+"DFL",52,1,30859,0,"Two or more races",0,"Suburban","Biden","Strongly approve",0
+"DFL",73,1,43570,1,"White",0,"Urban","Non-voter","Strongly approve",12
+"DFL",52,0,55700,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",63,0,26578,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",52,1,41243,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",62,0,25476,1,"Black",0,"Urban","Non-voter","Approve",2
+"DFL",40,0,29691,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",56,1,43149,0,"White",0,"Suburban","Biden","Strongly approve",81
+"Republican",65,0,31583,1,"White",0,"Rural","Trump","Strongly disapprove",81
+"Independent",60,0,38117,1,"White",0,"Rural","Biden","Disapprove",0
+"Independent",70,0,19432,1,"White",0,"Urban","Non-voter","Approve",44
+"DFL",80,0,20155,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",33,1,40541,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",30,1,55729,0,"White",0,"Suburban","Non-voter","Disapprove",0
+"Independent",33,1,59556,0,"White",0,"Urban","3rd Party","Strongly approve",33
+"Republican",74,0,20907,0,"Black",0,"Suburban","Trump","Strongly disapprove",0
+"DFL",32,1,23557,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",57,0,37158,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",25
+"DFL",79,0,19124,1,"White",1,"Urban","Biden","Strongly approve",0
+"DFL",55,0,31651,0,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",58,1,50248,0,"White",1,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",40,1,14409,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",66,0,17019,0,"Black",0,"Rural","Trump","Strongly disapprove",0
+"DFL",42,0,14862,0,"Pacific Islander",0,"Urban","Non-voter","Strongly approve",0
+"Republican",47,1,75083,1,"White",0,"Suburban","Trump","Approve",0
+"DFL",53,1,50219,0,"Black",0,"Rural","Biden","Approve",30
+"Republican",28,0,34940,1,"White",0,"Urban","Non-voter","Approve",29
+"Independent",83,1,24810,1,"White",0,"Suburban","Biden","Disapprove",0
+"DFL",20,0,26757,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"DFL",49,1,37785,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",25,1,38748,1,"Asian",0,"Rural","Biden","Approve",0
+"Republican",81,0,18725,0,"White",0,"Urban","Trump","Disapprove",0
+"Republican",56,0,42947,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",43,1,65696,0,"White",0,"Suburban","Trump","Strongly approve",0
+"Independent",57,1,37439,1,"American Indian or Alaska Native",0,"Rural","Biden","Disapprove",0
+"Republican",52,0,45553,1,"White",0,"Urban","Biden","Neither approve nor disapprove",39
+"Independent",60,0,30569,0,"White",0,"Urban","Biden","Approve",0
+"DFL",78,0,15361,0,"White",1,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",29,0,31279,1,"White",0,"Urban","Biden","Approve",106
+"DFL",54,1,29248,0,"White",0,"Rural","Biden","Disapprove",0
+"DFL",84,0,4274,1,"White",0,"Suburban","Trump","Approve",0
+"Republican",57,1,54524,1,"White",0,"Urban","Trump","Approve",0
+"Republican",55,1,46560,0,"White",0,"Urban","Trump","Approve",119
+"DFL",42,0,37967,1,"White",0,"Suburban","Trump","Strongly approve",0
+"Independent",84,0,21265,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Independent",68,1,30506,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",71,0,26044,0,"White",0,"Suburban","Trump","Approve",0
+"DFL",43,0,58195,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"Independent",55,0,52011,0,"White",0,"Rural","Biden","Disapprove",0
+"Republican",52,0,33459,1,"White",1,"Urban","Non-voter","Approve",24
+"DFL",73,1,44728,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",36,0,34821,0,"White",0,"Rural","Biden","Strongly disapprove",74
+"Republican",78,0,24710,0,"Pacific Islander",0,"Urban","Non-voter","Disapprove",0
+"DFL",46,1,76591,1,"White",0,"Suburban","Biden","Strongly approve",624
+"Independent",57,0,27177,1,"Asian",0,"Suburban","Non-voter","Approve",0
+"Independent",62,0,31618,1,"Black",0,"Urban","Biden","Approve",9
+"Republican",81,0,24840,0,"White",0,"Suburban","Trump","Strongly disapprove",24
+"Republican",68,0,20182,0,"White",0,"Suburban","Trump","Disapprove",0
+"Republican",69,0,16700,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",82,1,49673,0,"White",0,"Suburban","Biden","Approve",0
+"Republican",72,0,25071,0,"White",0,"Suburban","Trump","Disapprove",16
+"Independent",47,1,55513,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",64,0,17386,0,"Black",0,"Suburban","Trump","Strongly disapprove",0
+"Republican",42,0,40796,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",71,0,21471,0,"White",0,"Urban","Trump","Strongly approve",57
+"Republican",57,0,41425,0,"White",0,"Suburban","Trump","Disapprove",0
+"Republican",48,0,23585,0,"White",0,"Rural","Trump","Disapprove",0
+"DFL",78,1,38313,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",47,0,32208,1,"White",0,"Rural","Trump","Disapprove",0
+"Independent",53,1,28692,1,"White",0,"Urban","Biden","Approve",0
+"DFL",63,0,39447,0,"White",0,"Rural","Trump","Disapprove",0
+"DFL",66,1,36014,0,"Black",1,"Suburban","Non-voter","Strongly approve",0
+"Republican",47,0,42458,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",38,0,29019,0,"White",0,"Suburban","Non-voter","Strongly approve",4
+"Independent",73,0,14383,1,"White",0,"Urban","Trump","Approve",51
+"Republican",32,0,33897,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",41,0,39204,0,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",55,0,44783,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",70,1,30114,1,"Black",0,"Suburban","Biden","Approve",0
+"DFL",76,0,21321,1,"White",1,"Suburban","Trump","Approve",0
+"Republican",22,1,40900,1,"White",1,"Rural","Non-voter","Strongly disapprove",93
+"Republican",28,0,45587,1,"White",0,"Rural","Trump","Strongly disapprove",41
+"DFL",76,0,19239,0,"Pacific Islander",0,"Suburban","Trump","Approve",0
+"DFL",79,1,26917,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",24,0,43737,0,"White",0,"Urban","Non-voter","Strongly approve",32
+"Independent",52,0,21998,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",68,0,10571,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Republican",19,0,38683,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",65,0,31818,1,"White",0,"Rural","Trump","Neither approve nor disapprove",11
+"DFL",85,0,16765,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",25,1,28870,0,"White",0,"Suburban","Non-voter","Strongly approve",0
+"Republican",69,0,17945,1,"White",0,"Rural","Trump","Disapprove",0
+"Republican",79,1,34430,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"DFL",50,0,28046,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",73,1,43566,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",30,1,58476,0,"Asian",0,"Suburban","Biden","Strongly approve",164
+"DFL",67,0,26786,0,"White",0,"Rural","Biden","Disapprove",0
+"DFL",83,1,40783,1,"White",0,"Rural","Biden","Approve",66
+"Republican",60,0,33000,0,"White",1,"Suburban","Biden","Disapprove",0
+"Republican",71,0,19392,1,"White",1,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",38,0,30524,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",48,0,36481,0,"White",0,"Rural","Non-voter","Strongly disapprove",17
+"Republican",28,1,65289,0,"White",0,"Urban","3rd Party","Neither approve nor disapprove",0
+"Independent",42,0,25192,1,"White",0,"Suburban","Trump","Approve",53
+"Republican",26,0,35767,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",66,0,32463,0,"White",0,"Rural","Trump","Disapprove",0
+"DFL",42,0,41697,1,"White",0,"Suburban","Non-voter","Strongly approve",0
+"DFL",38,0,53529,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Republican",24,1,35378,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",76,1,16824,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",63,1,77039,1,"White",0,"Urban","Biden","Strongly approve",566
+"DFL",75,0,14530,0,"White",0,"Suburban","Biden","Approve",0
+"DFL",44,1,53235,1,"Asian",0,"Suburban","Biden","Strongly approve",139
+"Republican",29,0,37645,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",57,1,62476,1,"White",0,"Suburban","Biden","Strongly approve",218
+"Republican",70,0,1636,1,"White",0,"Rural","Non-voter","Strongly disapprove",16
+"Republican",78,0,16260,1,"Black",0,"Urban","Non-voter","Neither approve nor disapprove",15
+"DFL",62,0,21458,1,"Black",0,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",64,0,29266,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",55,0,42828,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",32,0,65506,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",24,0,42946,0,"White",0,"Rural","Trump","Approve",0
+"Republican",29,1,38420,0,"Asian",0,"Urban","Trump","Neither approve nor disapprove",14
+"DFL",23,0,34494,0,"Asian",0,"Suburban","Non-voter","Approve",20
+"Independent",41,0,34295,1,"White",1,"Rural","Biden","Neither approve nor disapprove",0
+"Republican",63,0,33596,0,"White",1,"Suburban","Trump","Disapprove",0
+"Republican",45,0,23715,1,"White",0,"Rural","Non-voter","Disapprove",0
+"DFL",35,0,34770,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"DFL",49,0,44005,0,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",28,0,32534,1,"White",0,"Urban","Biden","Approve",0
+"DFL",47,0,42408,1,"White",0,"Suburban","Trump","Strongly approve",33
+"DFL",40,1,35075,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",32,0,41204,0,"White",0,"Urban","Non-voter","Approve",0
+"DFL",65,1,37826,1,"Asian",1,"Urban","Biden","Strongly approve",26
+"DFL",55,0,42255,1,"White",0,"Suburban","Non-voter","Strongly approve",0
+"Republican",83,1,35446,0,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",46,1,49144,1,"White",1,"Suburban","Biden","Approve",0
+"Independent",83,1,27264,1,"White",0,"Suburban","Biden","Approve",0
+"Independent",79,0,10293,1,"White",0,"Urban","Non-voter","Approve",33
+"Republican",35,0,21918,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",64,0,40323,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",43,1,73687,1,"White",0,"Suburban","Biden","Strongly approve",330
+"Independent",21,0,33829,1,"White",0,"Urban","Biden","Approve",34
+"DFL",22,1,67961,1,"White",0,"Suburban","Non-voter","Strongly approve",0
+"DFL",43,1,78789,0,"White",0,"Urban","Biden","Strongly approve",605
+"Independent",80,0,16576,1,"White",0,"Suburban","Non-voter","Strongly disapprove",0
+"Republican",49,0,27425,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",40,1,33529,1,"Asian",0,"Rural","Trump","Disapprove",0
+"Republican",30,0,46045,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",74,0,12737,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Republican",83,1,18771,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Independent",82,0,26959,1,"Pacific Islander",0,"Rural","Trump","Strongly disapprove",41
+"Independent",51,1,34643,0,"White",0,"Urban","Biden","Approve",0
+"DFL",78,0,10000,1,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",85,1,24215,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"DFL",21,0,26326,0,"White",0,"Rural","Non-voter","Approve",0
+"Independent",64,0,35725,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Republican",26,0,43809,0,"American Indian or Alaska Native",0,"Rural","Non-voter","Strongly disapprove",0
+"Republican",54,1,53028,1,"Black",0,"Rural","Trump","Strongly disapprove",0
+"DFL",51,1,51754,0,"White",0,"Urban","Biden","Strongly approve",91
+"Republican",40,0,4601,0,"White",0,"Rural","Trump","Strongly disapprove",30
+"Republican",75,0,17016,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",23,1,44491,0,"Black",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",50,1,51125,0,"White",0,"Suburban","Biden","Strongly approve",148
+"Independent",68,0,22891,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",66,0,16484,0,"White",0,"Suburban","Non-voter","Approve",0
+"DFL",31,0,40055,0,"White",0,"Rural","3rd Party","Neither approve nor disapprove",0
+"Republican",19,0,15297,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",6
+"DFL",56,0,12060,0,"Black",0,"Suburban","Biden","Approve",0
+"DFL",23,1,44963,1,"White",0,"Urban","Trump","Strongly approve",0
+"DFL",58,0,29799,0,"White",0,"Suburban","Biden","Approve",0
+"Republican",56,1,16059,1,"White",0,"Urban","Trump","Approve",20
+"Independent",20,0,13800,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",3
+"Republican",43,0,40388,1,"White",0,"Urban","Trump","Strongly approve",0
+"Independent",48,0,19223,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Independent",65,0,40892,0,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",41,0,22413,0,"White",1,"Rural","Trump","Disapprove",0
+"Independent",76,0,24317,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Independent",69,0,19846,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",71,0,10077,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"Republican",29,1,41636,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",54,0,29757,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"DFL",51,1,38665,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",39,1,45558,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",66,1,22904,0,"White",0,"Urban","Non-voter","Approve",15
+"Republican",22,0,52441,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",78,0,24727,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",37,0,11116,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"DFL",84,0,13910,0,"White",0,"Rural","Non-voter","Disapprove",0
+"DFL",55,0,28459,1,"White",0,"Rural","Trump","Neither approve nor disapprove",17
+"DFL",29,0,40577,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",2
+"DFL",74,1,39479,0,"Asian",0,"Urban","Biden","Strongly approve",0
+"Republican",45,0,48776,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"DFL",61,0,25779,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Republican",62,0,49071,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Republican",57,1,40849,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",80,1,31313,1,"White",0,"Suburban","Trump","Disapprove",0
+"DFL",26,0,21220,1,"Asian",0,"Suburban","Biden","Strongly approve",0
+"Republican",22,0,21798,0,"White",1,"Rural","Non-voter","Strongly disapprove",56
+"Republican",47,0,34566,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",56,0,29269,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",50,0,32018,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",53,1,49810,1,"White",0,"Urban","Biden","Approve",0
+"Republican",27,1,66361,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Independent",53,1,74559,1,"White",0,"Suburban","Biden","Approve",47
+"Republican",70,0,11112,1,"White",0,"Rural","Non-voter","Strongly disapprove",21
+"Independent",68,1,27531,0,"White",1,"Suburban","Biden","Neither approve nor disapprove",8
+"Independent",26,1,52658,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",44,0,19700,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"Republican",33,1,46690,1,"Asian",0,"Rural","Biden","Disapprove",22
+"DFL",56,0,45093,0,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",26,0,45752,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Independent",36,0,44557,1,"White",0,"Suburban","3rd Party","Neither approve nor disapprove",0
+"Republican",69,1,46034,1,"White",1,"Rural","Biden","Strongly disapprove",62
+"Republican",79,1,33647,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",62,0,33811,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",25
+"DFL",81,0,15137,0,"White",1,"Rural","Trump","Disapprove",48
+"DFL",46,0,29166,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Independent",57,0,37450,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",35
+"Independent",76,0,31399,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",51,0,37164,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",82,0,10311,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"DFL",55,1,41128,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Independent",30,0,41377,0,"White",0,"Rural","Trump","Disapprove",0
+"Republican",27,1,37905,1,"Asian",0,"Suburban","Trump","Approve",0
+"Independent",45,1,46496,1,"White",0,"Urban","Biden","Approve",0
+"Republican",58,0,28973,0,"White",0,"Suburban","Trump","Disapprove",15
+"Independent",60,0,42934,1,"White",0,"Rural","Non-voter","Strongly disapprove",26
+"Republican",72,1,27749,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",15
+"DFL",81,0,12805,0,"White",1,"Urban","Biden","Approve",0
+"DFL",46,1,61095,1,"White",0,"Urban","Biden","Strongly approve",209
+"Independent",49,0,48452,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",31
+"Republican",30,0,36564,0,"White",0,"Urban","Non-voter","Neither approve nor disapprove",2
+"Independent",44,0,47594,1,"White",0,"Rural","Trump","Disapprove",30
+"DFL",29,1,45147,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",58,0,33546,1,"White",0,"Rural","Non-voter","Approve",20
+"Independent",30,0,53394,1,"White",0,"Urban","Trump","Approve",0
+"DFL",57,0,40992,0,"American Indian or Alaska Native",1,"Suburban","Trump","Approve",0
+"Independent",59,0,23886,1,"White",0,"Rural","Trump","Disapprove",0
+"DFL",73,0,11620,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",29
+"Independent",72,1,29187,0,"White",0,"Urban","Trump","Strongly approve",0
+"Independent",71,0,21586,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",50,0,34915,1,"White",1,"Rural","Biden","Strongly disapprove",0
+"DFL",82,0,9945,1,"Two or more races",0,"Suburban","Trump","Approve",0
+"Republican",41,0,12557,0,"White",0,"Urban","Biden","Approve",0
+"Republican",80,1,37017,1,"White",0,"Suburban","Biden","Disapprove",0
+"Independent",69,1,26568,1,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Republican",72,0,22875,1,"Asian",0,"Suburban","Trump","Strongly disapprove",40
+"DFL",28,1,39305,1,"Two or more races",0,"Urban","Biden","Strongly approve",0
+"Independent",69,1,21273,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Republican",24,0,45656,1,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"DFL",82,1,38807,0,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",34,0,56605,1,"White",0,"Rural","Trump","Disapprove",0
+"Independent",73,0,20062,1,"White",0,"Urban","Trump","Approve",3
+"Independent",63,0,35993,1,"Pacific Islander",0,"Urban","Trump","Strongly approve",67
+"DFL",81,0,13479,0,"White",0,"Rural","Non-voter","Disapprove",0
+"Republican",58,1,20151,0,"Asian",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",44,1,67759,0,"Asian",0,"Urban","Biden","Neither approve nor disapprove",8
+"Republican",67,0,33151,0,"White",0,"Suburban","Trump","Disapprove",16
+"Republican",28,0,37082,0,"American Indian or Alaska Native",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",68,0,37715,1,"White",1,"Rural","Non-voter","Strongly disapprove",0
+"DFL",65,1,49703,0,"White",0,"Urban","Biden","Strongly approve",37
+"DFL",59,0,44892,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",77,1,27231,1,"White",0,"Rural","Non-voter","Approve",0
+"DFL",80,0,16788,1,"White",0,"Suburban","Non-voter","Approve",0
+"DFL",81,1,40272,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",47,1,59262,1,"White",0,"Urban","Trump","Strongly approve",0
+"Independent",56,0,59282,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",31,1,54577,1,"White",0,"Urban","Biden","Approve",11
+"DFL",54,0,32885,0,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",25,0,35132,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",61,0,45081,1,"White",0,"Suburban","Biden","Approve",0
+"Republican",34,0,44708,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",29,1,41413,0,"White",0,"Rural","3rd Party","Strongly disapprove",4
+"Republican",30,1,33830,1,"White",0,"Urban","Biden","Approve",0
+"Republican",71,0,20936,0,"White",0,"Urban","Trump","Disapprove",0
+"Independent",74,0,25896,0,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Republican",34,0,36854,1,"White",0,"Urban","Trump","Approve",0
+"Independent",74,0,17374,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"DFL",64,1,45514,0,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",31,0,41032,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",67,1,29753,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",19,0,44410,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",84,0,24177,1,"White",0,"Urban","Trump","Approve",0
+"Republican",38,0,22521,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",19,0,36288,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"DFL",75,0,21985,1,"White",0,"Suburban","Biden","Approve",0
+"Republican",47,0,25665,1,"White",0,"Urban","3rd Party","Approve",0
+"Republican",52,0,30073,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",48,1,70771,1,"White",0,"Suburban","Trump","Approve",0
+"DFL",67,1,25463,0,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",75,0,11134,0,"White",0,"Suburban","Biden","Approve",0
+"Independent",58,1,21456,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",42,1,30054,1,"White",0,"Urban","Biden","Approve",35
+"DFL",48,1,53625,1,"Pacific Islander",0,"Suburban","Biden","Strongly approve",176
+"DFL",78,1,32665,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",42,1,30789,1,"Asian",0,"Urban","Non-voter","Strongly approve",0
+"Republican",56,0,52685,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",77,0,28917,0,"White",0,"Urban","Biden","Neither approve nor disapprove",12
+"Republican",29,1,31432,1,"White",1,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",58,1,58640,0,"White",0,"Suburban","Biden","Approve",0
+"DFL",81,0,30433,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Independent",38,0,46495,1,"White",0,"Rural","Biden","Disapprove",5
+"DFL",26,1,41755,0,"White",1,"Rural","Biden","Approve",0
+"DFL",77,0,15946,1,"White",0,"Suburban","Biden","Approve",0
+"DFL",72,0,6159,0,"White",0,"Rural","Non-voter","Disapprove",0
+"Republican",29,0,30985,0,"White",0,"Urban","Trump","Approve",0
+"DFL",37,0,12545,0,"White",0,"Urban","Trump","Strongly approve",0
+"DFL",54,0,38626,1,"Pacific Islander",0,"Suburban","3rd Party","Strongly approve",35
+"DFL",47,0,23484,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"DFL",48,0,27555,0,"Asian",1,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",70,0,16325,0,"Pacific Islander",0,"Rural","Biden","Disapprove",0
+"DFL",23,1,32340,0,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",68,0,17879,0,"White",0,"Urban","Trump","Neither approve nor disapprove",24
+"DFL",43,0,25408,1,"White",0,"Rural","Biden","Approve",0
+"DFL",46,0,55445,1,"Two or more races",0,"Urban","Biden","Strongly approve",194
+"Republican",30,1,23323,0,"White",0,"Suburban","Non-voter","Disapprove",0
+"Republican",72,1,29086,1,"White",0,"Urban","Biden","Approve",0
+"Independent",52,0,25520,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",10
+"Independent",43,0,34975,0,"Black",1,"Urban","Non-voter","Neither approve nor disapprove",0
+"Republican",54,0,23340,0,"White",0,"Rural","Biden","Strongly disapprove",0
+"Republican",51,0,36523,0,"White",0,"Urban","Non-voter","Disapprove",0
+"Independent",55,1,57866,1,"Black",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",25,0,22666,1,"White",0,"Rural","Biden","Strongly disapprove",0
+"Republican",79,1,30552,1,"Asian",0,"Rural","Trump","Disapprove",45
+"DFL",46,1,53886,0,"White",0,"Rural","Trump","Neither approve nor disapprove",0
+"Independent",71,0,21943,1,"Two or more races",0,"Rural","Non-voter","Disapprove",18
+"DFL",71,0,20673,1,"White",0,"Urban","Biden","Strongly approve",0
+"DFL",85,0,2034,0,"White",0,"Urban","Non-voter","Approve",6
+"Republican",37,1,49726,1,"White",0,"Suburban","Non-voter","Approve",0
+"Independent",52,1,61289,1,"White",0,"Urban","Non-voter","Approve",29
+"Republican",60,0,30664,1,"White",0,"Rural","Non-voter","Strongly disapprove",0
+"Independent",82,1,20117,0,"White",0,"Rural","Trump","Disapprove",26
+"Independent",32,0,19107,0,"White",0,"Rural","Biden","Disapprove",0
+"DFL",44,1,50911,1,"Asian",0,"Urban","Biden","Strongly approve",97
+"Republican",68,0,20900,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"Republican",64,0,39501,0,"White",1,"Rural","Trump","Strongly disapprove",0
+"DFL",69,1,32305,1,"White",0,"Rural","Non-voter","Approve",5
+"Republican",73,1,24251,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Republican",79,1,26785,0,"White",1,"Urban","Biden","Neither approve nor disapprove",17
+"DFL",47,0,31896,0,"White",1,"Suburban","Biden","Approve",0
+"Independent",39,1,45270,0,"White",0,"Urban","Biden","Approve",30
+"Republican",37,0,25705,0,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",20,0,56121,0,"White",0,"Rural","Trump","Strongly disapprove",55
+"Independent",53,1,65395,0,"Black",0,"Rural","Non-voter","Disapprove",0
+"Independent",63,0,24140,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",41,0,35071,0,"White",0,"Urban","Trump","Neither approve nor disapprove",47
+"DFL",34,1,58384,0,"Pacific Islander",0,"Rural","Trump","Strongly approve",0
+"DFL",31,1,53332,1,"White",0,"Suburban","Biden","Strongly approve",20
+"DFL",74,1,32816,1,"Black",0,"Rural","Biden","Approve",0
+"Independent",69,1,25355,0,"White",0,"Suburban","Trump","Approve",0
+"Independent",76,0,21793,1,"Asian",0,"Suburban","Trump","Disapprove",0
+"Independent",74,1,21832,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",21,0,30512,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",48
+"DFL",64,0,5173,0,"White",0,"Rural","Trump","Approve",0
+"Republican",19,0,50979,0,"White",0,"Suburban","Non-voter","Approve",0
+"Republican",77,1,27685,0,"White",0,"Urban","Biden","Neither approve nor disapprove",0
+"Independent",37,0,11404,0,"White",0,"Rural","3rd Party","Strongly disapprove",0
+"Republican",38,0,39397,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",47,0,36246,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",8
+"DFL",84,1,33471,0,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",30,0,40343,0,"White",1,"Suburban","Biden","Neither approve nor disapprove",4
+"Republican",64,0,23159,0,"White",0,"Suburban","Biden","Strongly disapprove",0
+"Republican",25,1,53327,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",47,1,55449,1,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"Republican",59,0,4241,1,"White",0,"Rural","Trump","Strongly disapprove",12
+"Republican",69,0,8810,0,"Black",0,"Urban","Non-voter","Disapprove",0
+"DFL",31,0,38694,0,"White",1,"Suburban","Biden","Strongly approve",0
+"Independent",50,0,21217,0,"White",0,"Rural","Biden","Strongly disapprove",22
+"Independent",71,0,10062,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",5
+"DFL",47,1,51875,0,"White",1,"Urban","Biden","Strongly approve",176
+"Republican",44,1,40692,1,"White",0,"Urban","Non-voter","Approve",0
+"DFL",67,1,39402,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",60,0,43257,1,"Black",0,"Rural","Biden","Neither approve nor disapprove",0
+"Independent",84,0,15967,1,"Black",0,"Suburban","Trump","Disapprove",0
+"Republican",21,0,40104,0,"White",1,"Urban","Non-voter","Disapprove",0
+"DFL",49,0,57622,0,"White",1,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",59,0,20941,0,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"DFL",66,1,40592,0,"White",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",69,0,9136,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",77,0,19648,0,"Black",0,"Urban","Biden","Disapprove",0
+"Republican",75,0,14299,1,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"Republican",39,0,0,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Independent",56,1,63376,0,"White",0,"Urban","Trump","Approve",0
+"DFL",67,0,18675,0,"Pacific Islander",1,"Rural","Non-voter","Neither approve nor disapprove",0
+"DFL",33,0,27456,1,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",36,0,41452,0,"White",0,"Rural","Trump","Strongly disapprove",0
+"Independent",37,0,23206,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",72,1,48999,1,"White",1,"Suburban","Trump","Approve",0
+"Republican",34,1,66501,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",80,0,929,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"Independent",59,0,29007,0,"White",0,"Urban","Trump","Neither approve nor disapprove",0
+"DFL",32,1,35634,1,"White",0,"Suburban","Non-voter","Strongly approve",90
+"Republican",58,0,15302,0,"Black",0,"Rural","Trump","Strongly disapprove",0
+"DFL",85,0,28735,1,"Asian",0,"Rural","Biden","Disapprove",0
+"DFL",23,1,59108,0,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",30,0,40661,0,"White",0,"Suburban","Trump","Disapprove",40
+"DFL",75,1,28284,1,"White",0,"Suburban","Biden","Strongly approve",0
+"Independent",78,0,30972,1,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",67,1,31804,1,"White",1,"Suburban","Trump","Approve",0
+"Republican",80,1,29815,1,"White",0,"Urban","Non-voter","Neither approve nor disapprove",0
+"DFL",51,0,37068,1,"White",0,"Urban","Trump","Strongly approve",0
+"Republican",69,1,12865,0,"Asian",0,"Rural","Biden","Strongly disapprove",0
+"Republican",39,0,21286,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",122
+"DFL",39,0,40542,0,"White",0,"Suburban","Trump","Strongly approve",0
+"DFL",35,1,58744,0,"White",0,"Urban","Biden","Strongly approve",174
+"DFL",70,0,22811,1,"White",0,"Suburban","Trump","Strongly approve",0
+"Republican",47,0,54259,1,"White",0,"Suburban","Trump","Disapprove",0
+"Independent",64,0,51294,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",0
+"Independent",43,1,32336,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"DFL",21,0,18153,1,"White",0,"Suburban","Biden","Strongly approve",0
+"DFL",33,1,22813,0,"White",0,"Suburban","Non-voter","Approve",0
+"DFL",40,0,31248,1,"White",0,"Rural","Biden","Neither approve nor disapprove",0
+"Independent",43,0,41629,1,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"Independent",62,0,34913,0,"White",0,"Urban","Trump","Approve",0
+"Republican",69,0,22694,1,"White",1,"Suburban","Trump","Neither approve nor disapprove",0
+"Republican",52,1,31780,1,"White",0,"Urban","Biden","Neither approve nor disapprove",32
+"DFL",28,0,37685,0,"White",0,"Suburban","Biden","Approve",0
+"Independent",57,0,38747,0,"White",0,"Rural","Biden","Strongly disapprove",0
+"DFL",73,0,19652,1,"White",0,"Urban","Trump","Strongly approve",5
+"DFL",74,0,16533,1,"Black",0,"Rural","Biden","Disapprove",0
+"Independent",50,1,51376,0,"White",0,"Suburban","Biden","Neither approve nor disapprove",0
+"DFL",58,0,38601,1,"White",0,"Urban","Biden","Strongly approve",0
+"Republican",64,1,33101,1,"White",0,"Urban","Trump","Neither approve nor disapprove",14
+"Republican",49,1,22471,1,"White",0,"Urban","Trump","Approve",0
+"DFL",59,0,37799,0,"Pacific Islander",0,"Rural","Non-voter","Neither approve nor disapprove",0
+"Republican",38,0,33159,0,"Asian",0,"Suburban","Trump","Disapprove",0
+"Independent",57,0,21987,1,"White",0,"Rural","Biden","Disapprove",0
+"Independent",48,0,30825,1,"White",0,"Urban","Biden","Approve",4
+"Republican",51,0,22307,0,"White",0,"Suburban","Non-voter","Neither approve nor disapprove",0
+"Republican",31,0,40287,0,"White",0,"Suburban","Trump","Neither approve nor disapprove",20
+"Republican",79,0,10176,1,"White",0,"Rural","Trump","Strongly disapprove",0
+"DFL",55,0,39428,1,"White",0,"Suburban","Trump","Strongly approve",0
+"Republican",66,0,24834,1,"White",0,"Suburban","Trump","Neither approve nor disapprove",74
+"Independent",39,0,41036,0,"White",0,"Rural","3rd Party","Disapprove",0
+"Independent",40,0,27681,1,"White",0,"Suburban","Trump","Approve",0
+"DFL",60,0,10620,1,"Black",0,"Urban","Biden","Strongly approve",0
+"Independent",45,1,48158,0,"White",1,"Urban","Biden","Strongly approve",116
+"Republican",19,0,42251,1,"White",0,"Suburban","Non-voter","Disapprove",0
+"Republican",37,0,31307,1,"Asian",0,"Suburban","Non-voter","Neither approve nor disapprove",22
+"DFL",45,1,34342,0,"White",0,"Suburban","Trump","Strongly approve",47
+"DFL",41,0,34383,1,"White",0,"Urban","Biden","Strongly approve",0
+"Independent",76,0,9592,0,"White",0,"Urban","Trump","Neither approve nor disapprove",54
+"DFL",81,1,35692,1,"White",0,"Urban","Non-voter","Strongly approve",0
+"Republican",71,1,49922,1,"White",0,"Suburban","Non-voter","Disapprove",0
+"Independent",37,0,41861,1,"White",0,"Rural","Trump","Neither approve nor disapprove",0
