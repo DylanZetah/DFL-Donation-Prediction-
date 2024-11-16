@@ -1,0 +1,295 @@
+---
+title: "Part 2"
+author: "Dylan Zetah"
+date: "3/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r data}
+data = read.csv("~/STAT 4052/2020 DFL Data v2.csv")
+donodata = data[,-c(9,10)]
+zerodono = donodata[donodata$donations==0,]
+yesdono = donodata[donodata$donations!=0,]
+college = donodata[donodata$voter_college==1,]
+dem = donodata[donodata$voter_party=="DFL",]
+ind = donodata[donodata$voter_party=="Independent",]
+rep = donodata[donodata$voter_party=="Republican",]
+urb = donodata[donodata$voter_urban=="Urban",]
+sub = donodata[donodata$voter_urban=="Suburban",]
+rur = donodata[donodata$voter_urban=="Rural",]
+newdono = donodata
+newdono$donations=donodata$donations+1
+bindono = donodata
+bindono$donations = donodata[,9]!=0
+attach(donodata)
+logdons = ifelse(donodata[,9]==0, 0,log(donodata[,9]))
+logdono = donodata
+logdono[,9] = logdons
+ones = rep(1,1000)
+logdono = cbind(logdono,ones)
+```
+
+```{r tree}
+library(tree)
+library(randomForest)
+require("randomForest")
+library(rpart)
+library(rattle)
+library(rpart.plot)
+library(DAAG)
+set.seed(1234)
+n=nrow(donodata)
+train.id=sample(1:n,(9*n)/10)
+train=donodata[train.id,]
+val=donodata[-train.id,]
+m1 = tree(donations~.,data = train)
+plot(m1)
+text(m1,pretty = 0)
+pred1=predict(m1,val)
+mean((val$donations-pred1)^2)
+
+m2=cv.tree(m1,FUN=prune.tree)
+m2
+(m4)
+mean((val$donations-pred3)^2)
+m4 = randomForest(donations~.-voter_female,data=train,mtry=3,importance=TRUE)
+pred4=predict(m4,val,type = "response")
+varImpPlot(m4, main = "Percent increase in MSE")
+mean((val$donations-pred4)^2)
+```
+
+
+```{r exploration}
+Urban = mean(donodata[donodata$voter_urban=="Urban",9])
+Suburban = mean(donodata[donodata$voter_urban=="Suburban",9])
+Rural = mean(donodata[donodata$voter_urban=="Rural",9])
+Urban = sum(urb$donations!=0)/347
+Suburban = sum(sub$donations!=0)/351
+Rural = sum(rur$donations!=0)/302
+Democrat = 
+Republican = mean(donodata[donodata$voter_party=="Republican",9])
+Independent = mean(donodata[donodata$voter_party=="Independent",9])
+Democrat = sum(dem$donations!=0)/386
+Republican = sum(rep$donations!=0)/348
+Independent = sum(ind$donations!=0)/266
+mean(donodata$donations)
+mean(donodata[donodata$voter_race=="White",9])
+mean(donodata[donodata$voter_race=="Black",9])
+mean(donodata[donodata$voter_race=="Pacific Islander",9])
+mean(donodata[donodata$voter_race=="Asian",9])
+mean(donodata[donodata$voter_party=="Independent",9])
+mean(donodata[donodata$voter_party=="DFL",9])
+mean(donodata[donodata$voter_party=="Republican",9])
+donodata[donodata$voter_race=="Two or more races",]
+summary(donodata$voter_race)
+```
+
+```{r slideplots}
+
+hist(donodata$donations,
+     breaks = 50,
+     main = "Histogram of Donations",
+     xlab = "Donations",
+     col = "green",
+     ylim = c(0,800),xlim = c(0,700))
+x = seq(0,599,1)
+y = 1000*dpois(x,lambda = 20)
+par(new=TRUE)
+plot(x,y,ylim = c(0,800),xlim = c(0,700),type = "l",col = "red",add = T,lwd = 3)
+
+hist(donodata$donations,
+     breaks = 50,
+     main = "Histogram of Donations",
+     xlab = "Donations",
+     col = "green",
+     ylim = c(0,800),xlim = c(0,700))
+x = seq(0,599,1)
+y = 1000*dnbinom(x,mu = 20, size = 5)
+par(new=TRUE)
+plot(x,y,ylim = c(0,800),xlim = c(0,700),xlab = "",ylab = "",type = "l",col = "red",lwd = 3)
+
+hist(logdono$donations,
+     breaks = 25,
+     main = "Histogram of Donations With Log Transformation",
+     xlab = "Donations",
+     col = "green",
+     ylim = c(0,50),xlim = c(0,7))
+x = seq(0,7,.1)
+y = 65*dnorm(x, mean = 3.4,sd = 1.1)
+par(new=TRUE)
+plot(x,y,ylim = c(0,50),xlim = c(0,7),type = "l",col = "red", lwd = 3,xlab = "",ylab = "")
+```
+
+```{r visualization}
+plot(donations~voter_income,data=donodata, 
+     col = donodata$voter_party,
+     ylim = c(0,800),
+     xlab = "Annual Income",
+     ylab = "Donations",
+     main = "Annual income vs Donations")
+legend(0, 600, c("DFL", "Independent", "Republican"), cex=0.75, fill=c("black",
+"red", "green"))
+plot(donations~voter_age,data=donodata,col = donodata$voter_party,
+          ylim = c(0,800),
+     xlab = "Age",
+     ylab = "Donations",
+     main = "Age vs Donations")
+legend(20, 700, c("DFL", "Independent", "Republican"), cex=0.75, fill=c("black",
+"red", "green"))
+hist(log(donodata$donations+1))
+
+plot(donations~voter_income,data=donodata, col = donodata$voter_party)
+plot(donations~voter_age,data=donodata,col = donodata$voter_party)
+
+lines(x,y, col = "red")
+
+x = seq(0,6,.1)
+y = pnorm(x,mean = 3)
+hist(log(yesdono$donations))
+hist(donodata$donations,
+     breaks = 25,
+     main = "Histogram of Donations",
+     xlab = "Donations",
+     col = "blue",add = T)
+lines(dpois(x, lambda = 0),col = "red")
+hist(donodata$voter_income)
+plot(yesdono$voter_party)
+party.dono.props = data.frame(Democrat,Republican,Independent)
+barplot(as.matrix(party.dono.props),beside = T,
+        ylab = "Proportion of People Making Donations",
+        xlab = "Voter Party",
+        main = "Proportion People Making Donations by Party",
+        col=c("blue", "red", "grey"))
+party.dono.means = data.frame(Democrat,Republican,Independent)
+barplot(as.matrix(party.dono.means),beside = T,
+        ylab = "Average Donation",
+        xlab = "Voter Party",
+        main = "Average Donations in Dollars",
+        col=c("blue", "red", "grey"))
+loc.dono.means = data.frame(Urban,Suburban,Rural)
+barplot(as.matrix(loc.dono.means),beside = T,
+        ylab = "Proportion of People Making Donations",
+        xlab = "Voter Location",
+        main = "Proportion of People Making Donations by Location",
+        col=c("grey", "green", "yellow"))
+qqnorm(log(yesdono$donations))
+qqline(log(yesdono$donations))
+```
+
+```{r expmod}
+par(mfrow=c(1,2))
+qqnorm(log(newdono$donations))
+qqline(log(newdono$donations))
+expmod = glm(log(donations)~voter_party*voter_income+voter_party*voter_urban,data = newdono)
+summary(expmod)
+log.fits=(predict(expmod,se.fit = T))
+exp.fits = exp(log.fits$fit)
+se.fits = exp(log.fits$se.fit)
+conf.int = confint(expmod,level = .8)
+pi.lb = conf.int 
+ci.ub = exp.fits+2*se.fits
+inci = mean(ifelse((yesdono$donations>ci.lb)&(yesdono$donations<ci.ub),1,0))
+```
+
+```{r nbmod}
+library(MASS)
+nbmod = glm.nb(donations~voter_income+voter_party,data = donodata,control=glm.control(maxit=500))
+summary(glm.nb)
+```
+
+
+
+```{r binmod}
+binmod = glm(donations~poly(voter_income,3),data = bindono,family = binomial(link = "logit"))
+bin.pred = predict(binmod,se = T,type = "link")
+bins = plogis(bin.pred$fit)
+summary(binmod)
+summary(bins)
+mean(bins>.3235)
+```
+
+
+```{r gammahurdle}
+zig = glmmTMB(donations~poly(voter_income,2)+voter_party*voter_income,data = yesdono,family = Gamma)
+binmod = glm(donations~poly(voter_income,3),data = bindono,family = binomial(link = "logit"))
+yesgammod = glm(donations~poly(voter_income,2)+voter_party*voter_income,data = yesdono, family=Gamma(link = "log"))
+summary(binmod)
+summary(yesgammod)
+bin.coef = plogis(coef(binmod)[[1]])
+gamma.coef = exp(coef(yesgammod)[[1]])
+bin.pred = predict(binmod,se = T,type = "link")
+gam.pred = predict(yesgammod,data.frame(donodata[1:8]),se = T,type = "link")
+ci.ub = bin.bin*plogis(fin.p+bin.pred$se.fit)*exp(gam.pred$fit+gam.pred$se.fit)
+ci.lb = plogis(bin.pred$fit-bin.pred$se.fit)*exp(gam.pred$fit-gam.pred$se.fit)
+ifelse((donodata$donations>ci.lb)&(donodata$donations<ci.lb),1,0)
+bins = plogis(bin.pred$fit)
+gams = exp(gam.pred$fit)
+bin.bin = ifelse(bin.pred$fit>.25,1,0)
+fin.preds = bin.bin*gams
+predmean = bin.coef*gamma.coef
+mean(bin.bin)
+
+```
+
+```{r expmod}
+expmod1 = glm(donations~.,data = donodata, family = gaussian(link = "log"),mustart=1:length(donations))
+summary(expmod1)
+```
+
+```{r zing}
+library(pscl)
+library(boot)
+zing = zeroinfl(donations~voter_party+(voter_income)|poly(voter_income,2),data = donodata,dist = "negbin",link = "log")
+summary(zing)
+zing.preds = predict(zing,se = T,family = "link")
+```
+
+```{r poison}
+library("NBZIMM")
+gzig = lme.zig(donations~voter_party*voter_income+voter_party*voter_urban+voter_college,~1|ones,zi.fixed = ~voter_income^2,data = logdono)
+summary(gzig)
+residuals = predict(gzig)-logdono$donations
+plot(predict(gzig),residuals)
+mean(resid)
+```
+
+
+```{r crossvalidation}
+library(pscl)
+library(tree)
+library("NBZIMM")
+library(randomForest)
+require("randomForest")
+library(rpart)
+library(rattle)
+library(rpart.plot)
+library(DAAG)
+nfolds = 10
+KCVerr1=0
+KCVerr2=0
+KCVerr3=0
+library(caret)
+fold = createFolds(1:1000,k = nfolds,list = F)
+for(i in 1:nfolds)
+{
+  m1 = zeroinfl(donations~voter_party+(voter_income)|poly(voter_income,2),data = donodata[fold!=i,],dist = "negbin",link = "log")
+  m2 = lme.zig(donations~voter_party*voter_income+voter_party*voter_urban+voter_college,~1|ones,zi.fixed = ~poly(voter_income,2),data = logdono[fold!=i,],verbose = F)
+  m3 = randomForest(donations~.-voter_female,data=donodata[fold!=i,],mtry=3,importance=TRUE)
+  pred1 = predict(m1,donodata[fold==i,])
+  pred2 = predict(m2,logdono[fold==i,])
+  pred3 = predict(m3,donodata[fold==i,])
+  KCVerr1 = KCVerr1 + mean((donodata$donations[fold==i]-pred1)^2)
+  KCVerr2 = KCVerr2 + mean((donodata$donations[fold==i]-exp(pred2))^2)
+  KCVerr3 = KCVerr3 + mean((donodata$donations[fold==i]-pred3)^2)
+}
+KCVerr1= KCVerr1/nfolds
+KCVerr2= KCVerr2/nfolds
+KCVerr3= KCVerr3/nfolds
+data.frame(KCVerr1,KCVerr2,KCVerr3)
+```
+
+\theta = $log(\lambda) = X \beta $
